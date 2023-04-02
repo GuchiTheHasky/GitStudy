@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>guchi.the.hasky</groupId>
-  <artifactId>GitStudy</artifactId>
+  <artifactId>git-study</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+
 
   <name>GitStudy</name>
   <url>http://maven.apache.org</url>
